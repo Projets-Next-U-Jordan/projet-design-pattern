@@ -4,6 +4,6 @@
 npm install
 
 npm start
-OU
+# OU
 npm run dev
 ```
